@@ -13,7 +13,7 @@ devtools::load_all()
 library(dplyr)
 library(tibble)
 
-## ---- eval=FALSE--------------------------------------------------------------
+## ----eval=FALSE---------------------------------------------------------------
 #  library(footprint)
 #  library(dplyr)
 #  library(tibble)
